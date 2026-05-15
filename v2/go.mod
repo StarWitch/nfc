@@ -1,3 +1,3 @@
 module github.com/StarWitch/nfc/v2
 
-go 1.12
+go 1.17
